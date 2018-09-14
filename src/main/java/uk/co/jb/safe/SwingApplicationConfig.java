@@ -1,4 +1,4 @@
-package net.nous.safe;
+package uk.co.jb.safe;
 
 import org.jasypt.encryption.pbe.StandardPBEStringEncryptor;
 import org.jasypt.encryption.pbe.config.EnvironmentStringPBEConfig;

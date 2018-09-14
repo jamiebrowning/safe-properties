@@ -1,4 +1,4 @@
-package net.nous.safe;
+package uk.co.jb.safe;
 
 import java.io.FileInputStream;
 import java.util.Properties;
